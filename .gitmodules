@@ -4,3 +4,6 @@
 [submodule "puppet-bbedit"]
 	path = puppet-bbedit
 	url = https://github.com/polymetis/puppet-bbedit.git
+[submodule "puppet-shortcat"]
+	path = puppet-shortcat
+	url = https://github.com/polymetis/puppet-shortcat.git
