@@ -1,0 +1,9 @@
+[submodule "normalize.css"]
+	path = normalize.css
+	url = https://github.com/polymetis/normalize.css.git
+[submodule "puppet-bbedit"]
+	path = puppet-bbedit
+	url = https://github.com/polymetis/puppet-bbedit.git
+[submodule "puppet-shortcat"]
+	path = puppet-shortcat
+	url = https://github.com/polymetis/puppet-shortcat.git
